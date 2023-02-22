@@ -1,7 +1,7 @@
+#! /usr/bin/env python
+
 # Rigel Ramadhani Waloni
 # 5024221058
-
-#! /usr/bin/env python
 
 import rospy
 from geometry_msgs.msg import PoseStamped
