@@ -6,6 +6,10 @@ Nama : Rigel Ramadhani Waloni
 
 NRP  : 5024221058
 
+## Nama Project
+
+Membuat sistem kontrol drone di Gazebo dengan input dari Webcam yang membaca QR Code.
+
 ## Inti Program
 
 Inti dari program yang telah saya buat adalah pada saat sebelum takeoff, webcam akan menyala untuk mencari atau mendeteksi perintah dari QR Code. Jika terdapat suatu QR Code yang terdeteksi, maka program akan mengambil data dari QR Code tersebut dan akan menjalankan perintah yang sesuai dengan data dari QR Code yang telah didapat.
